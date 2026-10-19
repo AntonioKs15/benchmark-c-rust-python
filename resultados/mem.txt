@@ -1,0 +1,9 @@
+fib|./c_bin|1544
+fib|./rs_bin|1880
+fib|python3 bench.py|9352
+sieve|./c_bin|6280
+sieve|./rs_bin|6784
+sieve|python3 bench.py|14056
+matmul|./c_bin|2400
+matmul|./rs_bin|2828
+matmul|python3 bench.py|13944
